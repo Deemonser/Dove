@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dove.iml" filepath="$PROJECT_DIR$/Dove.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aspect-plugin/aspect-plugin.iml" filepath="$PROJECT_DIR$/aspect-plugin/aspect-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/dove-annotation/dove-annotation.iml" filepath="$PROJECT_DIR$/dove-annotation/dove-annotation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dove-plugin/dove-plugin.iml" filepath="$PROJECT_DIR$/dove-plugin/dove-plugin.iml" />
     </modules>
   </component>
 </project>

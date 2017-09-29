@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.app.dove"
+<manifest package="com.annotation.dove"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.app.dove.MainActivity">
+        <activity android:name="com.annotation.dove.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

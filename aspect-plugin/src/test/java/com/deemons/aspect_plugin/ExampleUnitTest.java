@@ -1,4 +1,4 @@
-package com.app.dove;
+package com.deemons.aspect_plugin;
 
 import org.junit.Test;
 

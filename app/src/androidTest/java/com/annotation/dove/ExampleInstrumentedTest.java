@@ -1,4 +1,4 @@
-package com.app.dove;
+package com.annotation.dove;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

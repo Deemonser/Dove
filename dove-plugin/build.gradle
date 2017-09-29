@@ -1,8 +1,0 @@
-apply plugin: 'groovy'
-
-dependencies {
-
-    compile 'com.android.tools.build:gradle:2.2.0'
-
-    compile 'org.aspectj:aspectjrt:1.8.9'
-}
