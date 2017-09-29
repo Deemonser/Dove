@@ -1,1 +1,1 @@
-include ':app', ':aspect-plugin', ':dove-annotation'
+include ':app', ':dove-plugin', ':dove-annotation'
